@@ -1,0 +1,2 @@
+docker run -d --name chatgpt --network host --restart always -e OPENAI_API_KEY=sk-gjP50gd5f7biCLKjtJ0gQwTnb35D6qBexFUYto8kHUOMBLp3
+ -e OPENAI_API_BASE_URL=https://api.chatanywhere.com.cn chenzhaoyu94/chatgpt-web
